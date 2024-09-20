@@ -2,7 +2,7 @@
 
 # Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,go,js,typescript,python,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,," /> <br /><br />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Naoki-ganbarimasu)
 
