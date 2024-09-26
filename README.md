@@ -8,17 +8,14 @@ Welcome to my Github!
   <a href="https://github.com/Naoki-ganbarimasu/">
     <img height="20" src="https://img.shields.io/github/followers/Naoki-ganbarimasu?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/Naoki-ganbarimasu">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Naoki-ganbarimasu?label=Reddit&logo=reddit&style=flat" />
+  <a herf="https://qiita.com/Naoki_ganbarimasu">
+    <img height = "20" src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/posts.svg"/>
   </a>
-  <a herf="http://qiita.com/Eipon">
-    <img height = "20" src="https://qiita-badge.apiapi.app/s/Eipon/posts.svg"/>
+  <a href="https://qiita.com/Naoki_ganbarimasu">
+    <img height = "20" src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/contributions.svg"/>
   </a>
-  <a href="http://qiita.com/Eipon">
-    <img height = "20" src="https://qiita-badge.apiapi.app/s/Eipon/contributions.svg"/>
-  </a>
-  <a href="http://qiita.com/Eipon">
-    <img height = "20" src="https://qiita-badge.apiapi.app/s/Eipon/followers.svg" />
+  <a href="https://qiita.com/Naoki_ganbarimasu">
+    <img height = "20" src="https://qiita-badge.apiapi.app/s/Naoki_ganbarimasu/followers.svg" />
   </a>
 </p>
 
